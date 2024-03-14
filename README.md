@@ -1,6 +1,6 @@
 ## Hello, 👋🏾
 
-My name is Elson Dias and I am a Backend developer. My goal is to create amazing websites and applications that can solve real-world problems while optimizing our time. Currently I'm trying to improve my learning to become a great developer.
+My name is Elson Alacoque and I am a Backend developer. My goal is to create amazing websites and applications that can solve real-world problems while optimizing our time. Currently I'm trying to improve my learning to become a great developer.
 
 <a href="#">
 <img src="https://github.com/elsondias/elsondias/assets/102491017/7d0fd959-8b4a-4a77-a957-f14d7a7654dd)" title="hello" width="350" height="200" align="right" alt="Hello, there!">
